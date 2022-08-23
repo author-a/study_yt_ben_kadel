@@ -5,3 +5,7 @@ Made from FAST_FORWARD_MERGE_BR. FIRST FAST_FORWARD_MERGE_BR COMMIT
 Made from FAST_FORWARD_MERGE_BR. SECOND FAST_FORWARD_MERGE_BR COMMIT
 Made from FAST_FORWARD_MERGE_BR. THIRD FAST_FORWARD_MERGE_BR COMMIT
 Add this line from MASTER branch. FIRST MASTER COMMIT
+
+Add this line after I merged into MASTER branch. SECOND THREE_WAY_MERGE_BR COMMIT
+And one more line.                               THIRD  THREE_WAY_MERGE_BR COMMIT
+And one more line.                               FOURTH THREE_WAY_MERGE_BR COMMIT
