@@ -1,0 +1,10 @@
+name: test
+on: [push]
+jobs:
+  test-some-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - run: uname -a
+      - run: ls -lah
+      - run: whoami
+
